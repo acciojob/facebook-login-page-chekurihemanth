@@ -54,11 +54,6 @@ input[type="text"],input[type="password"]{
 	color: white;
 	font-size: 25px;
 }
-.signup>hr{
-	margin-top: 10px;
-	width: 100%;
-	border: 1px solid #aaaaaa;
-}
 a[href="/recover/initiate"]{
 	margin-top: 20px;
 	width: 100%;
