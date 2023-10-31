@@ -11,7 +11,7 @@ body{
 .left{
 	width: 50vw;
 }
-.left<p{
+.left>p{
 	font-size: 40px;
 	margin-top: 30px;
 }
